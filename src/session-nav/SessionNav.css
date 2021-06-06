@@ -1,0 +1,5 @@
+.rounded-border {
+  padding: 4px;
+  border: 1px solid rgb(70, 63, 63);
+  border-radius: 25px;
+}

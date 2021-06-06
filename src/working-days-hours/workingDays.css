@@ -1,0 +1,46 @@
+.wrk {
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+  width: 500px;
+  border: 1px solid rgb(209, 203, 203);
+  border-radius: 25px;
+}
+.workingDays__count {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.workingDays__count select {
+  max-width: 200px !important;
+  /* margin-left: 54px; */
+}
+
+.workingDays__count input[type="number"] {
+  margin-left: 10px;
+  max-width: 200px !important;
+}
+
+.workingDays__countSecondary {
+  display: flex;
+  margin: 0 10px 0px 10px;
+}
+.error_div {
+  display: flex;
+  justify-content: flex-end;
+}
+.min-input {
+  width: 100px;
+}
+.btn-div {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+.btn-add {
+  display: flex;
+  width: 150px;
+  align-items: center;
+  justify-content: center;
+}

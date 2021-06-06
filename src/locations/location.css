@@ -1,0 +1,20 @@
+.location_subInner {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}
+.location_subInner .form-check {
+  width: 2000px;
+}
+.wrk-loc {
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+  width: 750px;
+  border: 1px solid rgb(209, 203, 203);
+  border-radius: 25px;
+}
+
+.wrk-loc label {
+  width: 200px;
+}

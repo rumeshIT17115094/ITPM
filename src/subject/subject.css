@@ -1,0 +1,63 @@
+.subject {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.subject_sub {
+  display: flex;
+  flex-direction: column;
+  width: 550px;
+  justify-content: space-between;
+}
+.subject label {
+  margin-right: 10px;
+  width: 320px;
+}
+.subject_subInner {
+  display: flex;
+}
+
+.subject_subInner .form-check {
+  width: 150px !important;
+}
+.frm-subject {
+  padding: 20px;
+  width: 1200px;
+  border: 1px solid rgb(209, 203, 203);
+  border-radius: 25px;
+}
+.subject__count {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+.subject__count select {
+  min-width: 200px !important;
+  /* margin-left: 154px; */
+}
+
+.subject__count input[type="text"] {
+  margin-left: 10px;
+  /* max-width: 200px !important; */
+}
+
+.frm-subject .error_div {
+  display: flex;
+  justify-content: flex-end;
+}
+.frm-subject .min-input {
+  width: 100px;
+}
+.frm-subject .btn-div {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+.frm-subject .btn-add {
+  display: flex;
+  width: 150px;
+  align-items: center;
+  justify-content: center;
+}

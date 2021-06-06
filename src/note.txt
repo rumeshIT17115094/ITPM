@@ -1,0 +1,12 @@
+1)install node stable version
+2)cd project folder
+3)enter 'npm install' command
+
+run project
+cd project folder
+4)enter 'npm start' command
+
+
+get exe file
+cd project folder
+5)enter 'npm run build' command

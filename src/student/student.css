@@ -1,0 +1,56 @@
+.student {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.student_sub {
+  display: flex;
+  flex-direction: column;
+  width: 550px;
+}
+.frm-student label {
+  margin-right: 10px;
+  width: 200px;
+}
+
+.frm-student {
+  padding: 20px;
+  width: 1200px;
+  border: 1px solid rgb(209, 203, 203);
+  border-radius: 25px;
+}
+.student__count {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+.student__count select {
+  max-width: 200px !important;
+  /* margin-left: 54px; */
+}
+
+.student__count input[type="text"] {
+  margin-left: 10px;
+  max-width: 200px !important;
+}
+
+.frm-student .error_div {
+  display: flex;
+  justify-content: flex-end;
+}
+.frm-student .min-input {
+  width: 100px;
+}
+.frm-student .btn-div {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+.frm-student .btn-add {
+  display: flex;
+  width: 150px;
+  align-items: center;
+  justify-content: center;
+}

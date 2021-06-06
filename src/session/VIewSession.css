@@ -1,0 +1,11 @@
+.search-box {
+  width: 40vw;
+  border-radius: 20px;
+}
+.search-select {
+  width: 20vw;
+}
+.search-container {
+  display: flex;
+  justify-content: space-evenly;
+}

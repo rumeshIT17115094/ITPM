@@ -1,0 +1,14 @@
+.tag-form {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 500px;
+  border: 1px solid rgb(209, 203, 203);
+  border-radius: 25px;
+}
+.tag-form label {
+  width: 150px;
+}
+.select__list {
+  min-width: 320px !important;
+}
